@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/J2ZROMERO/J2ZROMERO/blob/assets/wave.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -91,7 +91,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
