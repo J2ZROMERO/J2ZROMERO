@@ -67,7 +67,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/J2ZROMERO" target="_blank">
+<a href="https://github.com/J2ZROMERO" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/https://twitter.com/JOSEZEPED4" target="_blank">
@@ -76,7 +76,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jose-zepeda-733ab91ab/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UC3yunqhYKBuPfcFzPzegd7Q" target="_blank">
+<a href="https://youtube.com/channel/UC3yunqhYKBuPfcFzPzegd7Q" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
