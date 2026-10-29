@@ -3,8 +3,6 @@
 </div>  
   
 # 💫 About Me:
-- 👯  I’m looking to collaborate on JavaScript, React, and Ruby on Rails projects. If you're working on anything related to          these technologies and need an extra hand, feel free to reach out to me.<br>
-- 🌱  I’m currently learning integrated services.<br>
 - 💬  Ask me about my experience working with databases, or anything related to Front-end or Back-end development.<br>
 - ⚡  Fun fact: I'm a firm believer that skills must be forged like steel.
 
